@@ -64,10 +64,10 @@
 	            })
 	            .bind("updateCheck", function(){
 	               if ( th.css("display") == "table-cell" || th.css("display") == "inline" ) {
-	                  $(this).attr("checked", true);
+	                  $(this).prop("checked", true);
 	               }
 	               else {
-	                  $(this).attr("checked", false);
+	                  $(this).prop("checked", false);
 	               }
 	            })
 	            .trigger("updateCheck");  
