@@ -1,5 +1,7 @@
 # Retired
 
+[![Filament Group](http://filamentgroup.com/images/fg-logo-positive-sm-crop.png) ](http://www.filamentgroup.com/)
+
 This repository is now officially retired and currently resides in Florida spending its time watching daytime television and playing golf.
 
 Please check out our new responsive tables project: [Tablesaw](https://github.com/filamentgroup/tablesaw).
